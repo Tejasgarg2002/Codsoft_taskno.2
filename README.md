@@ -34,4 +34,5 @@ I am always open to feedback and suggestions. If you have any ideas for improvem
 Thank you for visiting my portfolio, and I hope you find it informative and inspiring!
 
 Best regards,
+<br>
 Tejas Garg
