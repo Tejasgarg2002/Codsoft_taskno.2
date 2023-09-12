@@ -2,7 +2,8 @@
 
 Welcome to the Portfolio !
 <p align="center">
-  <img width="500" alt="Screenshot 2023-08-06 at 3 23 31 PM" src="https://github.com/Tejasgarg2002/Codsoft_taskno.2/assets/97401487/d8983362-e67f-434a-8817-aff174ea0790">
+  <img width="500" alt="Screenshot 2023-09-13 at 1 47 25 AM" src="https://github.com/Tejasgarg2002/Portfolio/assets/97401487/ab88be62-71e7-4505-9f64-5d194dd9d159">
+
 </p>
 
 ## Description
